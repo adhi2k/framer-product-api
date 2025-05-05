@@ -3,13 +3,13 @@ import { serve } from "https://deno.land/std@0.224.0/http/server.ts";
 const products = [
   {
     name: "Adhithya",
-    price: 108,
-    stock: 10
+    price: 1028,
+    stock: 100
   },
   {
     name: "Young Man",
-    price: 120,
-    stock: 5
+    price: 1202,
+    stock: 52
   }
 ];
 
